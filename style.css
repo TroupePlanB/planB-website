@@ -2,6 +2,17 @@ body {
             font-family: 'Arial', sans-serif;
         }
 
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .logo img {
+            width: 200px;
+            height: auto;
+        }
+
         .navbar {
             display: flex;
             position: sticky;
