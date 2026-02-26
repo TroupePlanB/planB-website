@@ -131,6 +131,15 @@ html {
 /* Mobile styles (phones up to 768px wide) */
 @media (max-width: 768px) {
     .navbar {
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+        padding: 15px;
+        position: static;        
+        top: auto;
+    }
+
+    .navbar {
         flex-direction: column;    /* stack logo/title/links vertically */
         align-items: center;       
         gap: 15px;                 
