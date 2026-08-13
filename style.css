@@ -141,10 +141,6 @@ section {
     gap: 8px;
 }
 
-.contact-icon img.instagram-icon {
-    transform: scale(1.6);
-}
-
 .contact-icon img {
     width: 50px;
     height: 50px;
