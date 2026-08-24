@@ -16,6 +16,8 @@ body {
 }
    .texte-centre {
       text-align: center;
+      -webkit-hypens: manual;
+      hypens: manual;
 }      
 }
 
