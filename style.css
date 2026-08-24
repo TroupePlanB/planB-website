@@ -14,6 +14,9 @@ body {
       text-justify: inter-word;
       word-spacing: -0.05em;
 }
+   .texte-centre {
+      text-align: centre;
+}      
 }
 
 html {
