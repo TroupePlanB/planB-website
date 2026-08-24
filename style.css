@@ -21,6 +21,10 @@ body {
 }      
 }
 
+h2 {
+   font-family: Charter;
+}
+
 html {
     scroll-behavior: smooth;
 }
