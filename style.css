@@ -43,7 +43,7 @@ html {
     top: 0;
     z-index: 1000;
 
-    background: rgb(42, 120, 117);
+    background: rgb(54, 155, 151);
     width: 100%;
     margin: 0;
     padding: 5px 20px;
@@ -196,7 +196,7 @@ section {
         padding: 7px 12px;
         gap: 0;
 
-        background: rgb(42, 120, 117);
+        background: rgb(54, 155, 151);
         box-sizing: border-box;
     }
 
